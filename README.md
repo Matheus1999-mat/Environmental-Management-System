@@ -1,8 +1,8 @@
 # Environmental-Management-System
 
 ## Video demonstration
-🇧🇷 Portuguese: https://www.youtube.com/watch?v=D6OGyJGemf8
-🇺🇸 Technical walkthrough (English):
+🇧🇷 Portuguese: https://youtu.be/f5ckM9JLJVA
+🇺🇸 Technical walkthrough (English): https://youtu.be/Czkfc7FL8QE
 
 ## English
 
